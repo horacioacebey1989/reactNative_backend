@@ -1,5 +1,5 @@
 # reactNative_backend
-The backen works with NodeJs, Express, Graphql, Apollo, and Mongoose for the DataBase
+The backend works with NodeJs, Express, Graphql, Apollo, and Mongoose for the DataBase
 --- Api
 -------src
 ----------db
